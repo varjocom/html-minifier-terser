@@ -1,13 +1,15 @@
 {
-  "name": "html-minifier-terser",
+  "name": "@varjo/html-minifier-terser",
   "description": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
-  "version": "7.2.0",
+  "publishConfig":{"registry":"https://artifactory.int.varjo.com/artifactory/api/npm/npm-local"},
+  "version": "7.2.4",
   "license": "MIT",
   "repository": "https://github.com/terser/html-minifier-terser.git",
   "bugs": "https://github.com/terser/html-minifier-terser/issues",
   "homepage": "https://terser.org/html-minifier-terser/",
   "author": "Daniel Ruf",
   "maintainers": [
+    "Yuri yuri@varjo.com",
     "Daniel Ruf <daniel@daniel-ruf.de",
     "Alex Lam <alexlamsl@gmail.com>",
     "Juriy Zaytsev <kangax@gmail.com> (http://perfectionkills.com/)",
