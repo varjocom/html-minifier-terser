@@ -2,7 +2,7 @@
   "name": "@varjo/html-minifier-terser",
   "description": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
   "publishConfig":{"registry":"https://artifactory.int.varjo.com/artifactory/api/npm/npm-local"},
-  "version": "7.2.4",
+  "version": "7.2.5",
   "license": "MIT",
   "repository": "https://github.com/terser/html-minifier-terser.git",
   "bugs": "https://github.com/terser/html-minifier-terser/issues",
